@@ -9,6 +9,7 @@ Welcome to The Ivory Bliss Hotel Management Application. The Ivory Bliss is a us
 - Users of the app is Hotel Staff. They can log into the application to perform tasks.
 - New users can only be signed up inside the applications (to guarantee that only actual hotel employees can access application).
 - Users can upload an avatar, change their names and passwords.
+- <img width=“300” alt="The_Ivory_Bliss_Login_Page" src="https://github.com/spksra/The_Ivory_Bliss/assets/69047778/a600ee5a-2f6b-408d-8501-08ca8183a3e6">
 
 ### Dashboard
 

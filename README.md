@@ -9,16 +9,16 @@ Welcome to The Ivory Bliss Hotel Management Application. The Ivory Bliss is a us
 - Users of the app is Hotel Staff. They can log into the application to perform tasks.
 - New users can only be signed up inside the applications (to guarantee that only actual hotel employees can access application).
 - Users can upload an avatar, change their names and passwords.
-- <img width=“100” alt="The_Ivory_Bliss_Login_Page" src="https://github.com/spksra/The_Ivory_Bliss/assets/69047778/a600ee5a-2f6b-408d-8501-08ca8183a3e6">
+<img width=“1778” alt="The_Ivory_Bliss_Login_Page" src="https://github.com/spksra/The_Ivory_Bliss/assets/69047778/a600ee5a-2f6b-408d-8501-08ca8183a3e6">
 
 ### Dashboard
 
 - The initial app screen is a dashboard, to display important highlights from the last 7, 30, or 90 days:
-  - Statistics on recent bookings, sales, check-ins, and occupancy rate.
-  - A list of guests checking in and out on the current day. Users can perform these tasks from here.
-  - A chart showing statistics on stay durations, as this is an important metric for the hotel.
-  - A chart showing all daily hotel sales, showing both "total" sales and "extras" sales (only breakfast at the moment).
-
+- Statistics on recent bookings, sales, check-ins, and occupancy rate.
+- A list of guests checking in and out on the current day. Users can perform these tasks from here.
+- A chart showing statistics on stay durations, as this is an important metric for the hotel.
+- A chart showing all daily hotel sales, showing both "total" sales and "extras" sales (only breakfast at the moment).
+![The_Ivory_Bliss_Dashboard_Page](https://github.com/spksra/The_Ivory_Bliss/assets/69047778/84cb7d2d-bc80-4ee4-ba70-8b12bde7334a)
 ### Cabins
 
 - The app has a table view with all cabins, displaying the cabin photo, name, capacity, price, and current discount.

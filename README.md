@@ -100,22 +100,21 @@ The Ivory Bliss Hotel Management Application is built using the following techno
 
 ## 🛠️ Installation Steps:
 
-1. Clone the repository
 ***
-git clone https://github.com/spksra/The_Ivory_Bliss.git
+1. Clone the repository
+"git clone https://github.com/spksra/The_Ivory_Bliss.git"
 ***
 
 ***
 2. Install the required dependencies
-npm install
+"npm install"
 ***
 
-<p>3. Start the development server</p>
-```
-npm run dev
-```
+***
+3. Start the development server</p>
+"npm run dev"
 
-<p>4. Access the application at</p>
-```
-http://localhost:5173 or Your Local URL
-```
+***
+4. Access the application at</p>
+"http://localhost:5173" or Your Local URL
+***

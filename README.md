@@ -102,7 +102,7 @@ The Ivory Bliss Hotel Management Application is built using the following techno
 
 ***
 1. Clone the repository
-git clone https://github.com/spksra/The_Ivory_Bliss.git<br>
+git clone https://github.com/spksra/The_Ivory_Bliss.git<p>
 ***
 
 ***
@@ -116,5 +116,5 @@ npm run dev
 
 ***
 4. Access the application at</p>
-http://localhost:5173" or Your Local URL
+http://localhost:5173 or Your Local URL
 ***

@@ -19,6 +19,8 @@ Welcome to The Ivory Bliss Hotel Management Application. The Ivory Bliss is a us
 - Users can update their Avatars, Full Name and Passwords from the User Icon provided in the header:
 <img width="1781" alt="The_Ivory_Bliss_UserName_Password_Updation_Page" src="https://github.com/spksra/The_Ivory_Bliss/assets/69047778/55f7ab0a-cfb9-4613-aca7-59fd2bd02def">
 
+- Users can logout from the Application.
+
 ## Key Features from Navbar 📝
 
 ### Dashboard
@@ -101,8 +103,8 @@ The Ivory Bliss Hotel Management Application is built using the following techno
 ## 🛠️ Installation Steps:
 
 ***
-1. Clone the repository
-git clone https://github.com/spksra/The_Ivory_Bliss.git<p>
+1. Clone the repository</p>
+git clone https://github.com/spksra/The_Ivory_Bliss.git
 ***
 
 ***
